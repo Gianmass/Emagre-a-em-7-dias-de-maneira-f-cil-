@@ -1,0 +1,45 @@
+html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Seu eBook de Emagrecimento Transformador</title>
+</head>
+<body>
+    <header>
+        <h1>Alcance Seu Peso Ideal com o eBook</h1>
+        <p>Descubra o guia definitivo para emagrecimento saudável e duradouro. Transforme sua vida agora!</p>
+    </header>
+    
+    <section>
+        <h2>Por que Este eBook é Essencial?</h2>
+        <p>Emagrecer de forma eficaz não precisa ser difícil. Nosso eBook oferece:</p>
+        <ul>
+            <li>Estratégias práticas e realistas</li>
+            <li>Dicas para manter a motivação</li>
+            <li>Receitas saudáveis e deliciosas</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Depoimentos de Transformação</h2>
+        <p>"Este eBook revolucionou a maneira como encaro a perda de peso. Finalmente alcancei meus objetivos!" - Ana R.</p>
+        <p>"Recomendo fortemente a todos que desejam um estilo de vida mais saudável. As dicas são incríveis!" - Pedro M.</p>
+    </section>
+    
+    <section>
+        <h2>Adquira Seu eBook Agora!</h2>
+        <p>Não espere mais para conquistar o corpo dos seus sonhos.</p>
+        <p>Adquira o eBook por apenas $24.99 e comece a transformação!</p>
+        <a href="https://pay.kiwify.com.br/7BmdJK1" target="_blank">Compre Agora</a>
+    </section>
+    
+    <section>
+        <h2>Curso Gratuito de Emagrecimento</h2>
+        <p>Quer testar antes de comprar? Inscreva-se no nosso curso gratuito!</p>
+        <a href="https://kiwify.app/3BMPpqH" target="_blank">Inscreva-se Grátis</a>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Seu Nome. Todos os direitos reservados.</p>
+    </footer>
+</body>
